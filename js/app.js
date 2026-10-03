@@ -1,0 +1,1 @@
+console.log ("website is loaded successfully");
